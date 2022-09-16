@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e086a333.css",
-    "main.js": "/static/js/main.8999a08a.js",
+    "main.css": "/static/css/main.7161dd59.css",
+    "main.js": "/static/js/main.f726d441.js",
     "static/media/hero1.png": "/static/media/hero1.3103db6424acc80d7431.png",
     "static/media/vuejsshops.png": "/static/media/vuejsshops.6d8dc03ed2738a9e082d.png",
     "static/media/mysqlmvc.png": "/static/media/mysqlmvc.e5ed9e7434c4476b803b.png",
     "static/media/Cristian_Andrey_Mendoza_Gamboa_CV.pdf": "/static/media/Cristian_Andrey_Mendoza_Gamboa_CV.d56e64451f08aa901714.pdf",
+    "static/media/tic.png": "/static/media/tic.ddeaa959646b1a7f5d41.png",
     "static/media/mongodbphp.png": "/static/media/mongodbphp.2a909d0b223c6d0bf10c.png",
-    "index.html": "/index.html",
-    "main.e086a333.css.map": "/static/css/main.e086a333.css.map",
-    "main.8999a08a.js.map": "/static/js/main.8999a08a.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.e086a333.css",
-    "static/js/main.8999a08a.js"
+    "static/css/main.7161dd59.css",
+    "static/js/main.f726d441.js"
   ]
 }
